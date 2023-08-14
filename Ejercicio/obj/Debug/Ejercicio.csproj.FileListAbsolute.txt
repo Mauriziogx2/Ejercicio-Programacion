@@ -1,0 +1,12 @@
+C:\Users\Maurizio\Desktop\programacion\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Maurizio\Desktop\programacion\Ejercicio\Ejercicio\obj\Debug\Ejercicio.FormMenu.resources
+C:\Users\Maurizio\Desktop\programacion\Ejercicio\Ejercicio\obj\Debug\Ejercicio.Properties.Resources.resources
+C:\Users\Maurizio\Desktop\programacion\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.GenerateResource.cache
+C:\Users\Maurizio\Desktop\programacion\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Maurizio\Desktop\programacion\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\Maurizio\Desktop\programacion\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\Maurizio\Desktop\programacion\Ejercicio\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\Maurizio\Desktop\programacion\Ejercicio\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\Maurizio\Desktop\programacion\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
+C:\Users\Maurizio\Desktop\programacion\Ejercicio\Ejercicio\obj\Debug\Ejercicio.FormAltaUsuario.resources
+C:\Users\Maurizio\Desktop\programacion\Ejercicio\Ejercicio\obj\Debug\Ejercicio.FormInformacionUsuario.resources
